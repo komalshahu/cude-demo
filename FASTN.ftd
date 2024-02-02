@@ -1,0 +1,19 @@
+-- import: fastn
+
+-- fastn.package: komalshahu.github.io/cude-demo
+favicon: /-/komalshahu.github.io/cude-demo/favicon.ico
+
+-- fastn.dependency: fastn-community.github.io/doc-site as doc-site
+-- fastn.dependency: fastn-community.github.io/footer
+-- fastn.dependency: fastn-community.github.io/roboto-typography
+-- fastn.dependency: fastn-community.github.io/dark-flame-cs
+
+-- fastn.auto-import: komalshahu.github.io/cude-demo/FASTN/ds
+-- fastn.auto-import: komalshahu.github.io/cude-demo/assets
+-- fastn.auto-import: doc-site
+
+-- fastn.sitemap:
+
+# Home: index.html
+
+- Right Sidebar Sample: /sidebar/
